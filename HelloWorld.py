@@ -1,1 +1,1 @@
-print("ET0735 - DevOps is DCPE module that sucks")
+print("ET0735 - DevOps for AIoT")
